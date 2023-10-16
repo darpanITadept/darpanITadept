@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darpanitadept&label=Profile%20views&color=0e75b6&style=flat" alt="darpanitadept" /> </p>
 
-- 🌱 I’m currently learning **AWS and polishing my DSA concepts in Swift**
+- 🌱 I’m currently polishing **SQL, **Tableau, **Excel and Python** Skills
 
 - 💬 Ask me about **CODE!**
 
