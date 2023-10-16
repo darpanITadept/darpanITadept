@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darpan Choudhary</h1>
-<h3 align="center">A passionate Aspiring Software Developer, Data Analyst and iOS Dev</h3>
+<h3 align="center">A passionate Software Developer, Data Analyst and iOS Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darpanitadept&label=Profile%20views&color=0e75b6&style=flat" alt="darpanitadept" /> </p>
 
-- 🌱 I’m currently polishing **SQL, Tableau**, **Excel and Python** Skills
+- 🌱 I’m currently polishing my **SQL, Tableau**, **Excel and Python** Skills
 
 - 💬 Ask me about **CODE!**
 
