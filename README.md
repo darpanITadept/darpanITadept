@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darpanitadept&label=Profile%20views&color=0e75b6&style=flat" alt="darpanitadept" /> </p>
 
-- 🌱 I’m currently polishing my **SQL, Tableau**, **Excel and Python** Skills
-
 - 💬 Ask me about **CODE!**
 
 - 📫 How to reach me **darpan.itadept@gmail.com**
